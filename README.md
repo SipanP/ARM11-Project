@@ -24,7 +24,7 @@ The game can then be played by running the produced executable:
 
     $ ./tetris
 
-![Tetris Homepage](doc/TetrisHome.png)
+![Tetris Homepage](doc/TetrisHome.png) ![Tetris Gameplay](doc/TetrisGameplay.png)
 
 - Move blocks with **Arrow** or **WASD** keys
 - Fast-drop blocks with **SPACE**
@@ -32,4 +32,4 @@ The game can then be played by running the produced executable:
 
 ## Authors
 
-This project was completed from May to June 2021, in conjunction with Anton Zhitomirsky, Sipan Petrosyan & Vincent Lee
+This project was completed from May to June 2021 together with Anton Zhitomirsky, Sipan Petrosyan & Vincent Lee
